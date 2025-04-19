@@ -1,0 +1,8 @@
+This project uses the Geist font.
+
+Geist is licensed under the SIL Open Font License, Version 1.1.
+You can find the full license text here: https://scripts.sil.org/OFL
+
+Copyright (c) Vercel and the Geist authors.
+
+The font files are included under the terms of the OFL, which allows usage, embedding, modification, and redistribution as long as the font is not sold by itself.
